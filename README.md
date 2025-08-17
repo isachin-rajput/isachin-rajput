@@ -16,8 +16,8 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?logo=vercel&logoColor=white)](https://i-sachin.blogspot.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-sachin/)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-Follow-111?logo=x&logoColor=white)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-hello%40you.com-EA4335?logo=gmail&logoColor=white)](mailto:sk07@duck.com)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&label=Profile+views)](#)
+[![Email](https://img.shields.io/badge/Email-sk07@%40duck.com-EA4335?logo=gmail&logoColor=white)](mailto:sk07@duck.com)
+[![Profile views](https://komarev.com/ghpvc/?username=MY_USERNAME&style=flat&label=Profile+views)](#)
 
 </div>
 
