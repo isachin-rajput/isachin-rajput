@@ -24,7 +24,14 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 ---
 
 ## 🧭 About Me
-- 🚀 **Current focus:** Modern web dev (HTML%, CSS3, ES6), Google Blogger, Networking, Cyber Security.  
+
+💡 I'm a **Full‑Stack Web Developer** and **Cybersecurity Trainer** with a background in **Networking** and a B.Sc. in **Mathematics, Physics & Electronics**. I build fast, accessible web apps with **HTML5, CSS3, ES6/JavaScript** and modern frameworks, deploy secure **Linux** servers, and teach practical **security hardening**, **networking basics**, and **web performance**. I also write tutorials on **Google Blogger (Blogspot)** about **front‑end best practices**, **Node.js APIs**, **DevOps**, and **cybersecurity hygiene**.
+
+- 🚀 **Current focus:** Modern web dev (HTML%, CSS3, ES6), Google Blogger, Networking, Cyber Security.
+- 🛡️ **Cybersecurity:** Linux hardening, SSH, firewalls, basic pentest labs
+- 🌐 **Networking:** IP/Subnetting, VLANs, NAT, DNS, HTTPS/TLS
+- 🖥️ **Server Admin:** Linux (Ubuntu/Debian), Nginx, Docker, CI/CD
+- ✍️ **Blogging:** Blogger/Blogspot, SEO, technical writing  
 - 🧩 **Strengths:** Clean architecture, performance, automation, documentation.  
 - 🌱 **Learning:** TypeScript power patterns, Docker, Kubernetes basics.  
 - 🤝 **Open to:** Freelance, collabs, and OSS contributions.  
@@ -78,6 +85,11 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 <!-- 🔗 **APIs that scale:** REST/GraphQL with auth, caching, and testing.  -->
 - 🧪 **Quality first:** Unit/integration tests, CI/CD, and clear docs.  
 - ⚙️ **Automation:** Scripts and pipelines that save hours every week.
+- 🧱 **Frontends that feel fast**: accessible, mobile‑first, and clean UX.
+- 🔗 **Secure APIs**: auth, rate‑limits, caching, testing.
+- 🛡️ **Cybersecurity training**: basics to intermediate labs & playbooks.
+- ⚙️ **Linux server admin**: Nginx reverse proxies, SSL/TLS, CI/CD.
+
 
 ---
 
