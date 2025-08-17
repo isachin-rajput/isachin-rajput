@@ -93,7 +93,7 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 ---
 
 ## 🗓️ Currently
-- 🚧 Working on: `your-current-project`  
+- 🚧 Working on: `personal-portfolio`  
 - 📚 Reading: *Designing Data-Intensive Applications*  
 - 🎯 2025 Goal: Ship 3 open-source tools used by 100+ devs
 
