@@ -67,28 +67,28 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
-![Sk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sk's GitHub stats](https://github-readme-stats.vercel.app/api?username=isachin-rajput&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=isachin-rajput&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=5&margin-h=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=isachin-rajput&theme=radical&margin-w=5&margin-h=5)
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isachin-rajput&layout=compact&theme=radical)
 
 ---
 
 ## ✨ What I Do
 - 🧱 **Frontends that feel fast:** Accessible, responsive, and clean UX.  
-<!-- 🔗 **APIs that scale:** REST/GraphQL with auth, caching, and testing.  -->
 - 🧪 **Quality first:** Unit/integration tests, CI/CD, and clear docs.  
 - ⚙️ **Automation:** Scripts and pipelines that save hours every week.
 - 🧱 **Frontends that feel fast**: accessible, mobile‑first, and clean UX.
 - 🔗 **Secure APIs**: auth, rate‑limits, caching, testing.
 - 🛡️ **Cybersecurity training**: basics to intermediate labs & playbooks.
 - ⚙️ **Linux server admin**: Nginx reverse proxies, SSL/TLS, CI/CD.
+<!-- 🔗 **APIs that scale:** REST/GraphQL with auth, caching, and testing.  -->
 
 
 ---
@@ -108,10 +108,10 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 ## 📊 GitHub Stats
 <!-- If an image fails to load sometimes, just refresh; these services are popular in profile READMEs -->
 <p>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=isachin-rajput&theme=default&hide_border=true" />
 </p>
 <p>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isachin-rajput&layout=compact&hide_border=true" />
 </p>
 
 ---
