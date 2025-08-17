@@ -59,6 +59,18 @@ Building clean UIs, scalable APIs, and automation that saves time ⚡
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
+## 📊 GitHub Stats
+![Sk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=5&margin-h=5)
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 ---
 
 ## ✨ What I Do
